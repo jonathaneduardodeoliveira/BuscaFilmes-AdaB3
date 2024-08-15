@@ -4,7 +4,7 @@ import java.awt.event.ActionListener;
 
 public class Main {
     public static void main(String[] args) {
-        JFrame frame = new JFrame("Sistema de Filmes");
+        JFrame frame = new JFrame("BuscaFilmes-AdaB3");
         frame.setSize(400, 300);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setLayout(null);
